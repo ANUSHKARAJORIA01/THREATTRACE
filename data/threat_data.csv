@@ -1,0 +1,17 @@
+indicator,indicator_type,threat_type,severity,description
+185.220.101.45,ip,botnet_c2,HIGH,Fictional demo indicator associated with simulated botnet command-and-control traffic
+45.155.205.233,ip,scanning,MEDIUM,Fictional demo indicator associated with simulated network scanning activity
+91.219.237.100,ip,malware_hosting,HIGH,Fictional demo indicator hosting simulated malware payloads
+198.51.100.23,ip,phishing_infra,HIGH,Fictional demo indicator used for simulated phishing infrastructure
+203.0.113.77,ip,spam,LOW,Fictional demo indicator associated with simulated spam relay
+secure-verify-account.com,domain,phishing,HIGH,Fictional demo domain mimicking a legitimate login portal
+update-billing-info.net,domain,phishing,HIGH,Fictional demo domain used for simulated billing scam pages
+free-gift-claim.biz,domain,scam,MEDIUM,Fictional demo domain used for simulated prize scam campaigns
+microsofit-support.com,domain,impersonation,HIGH,Fictional demo typosquat domain impersonating a technology vendor
+account-alert-secure.info,domain,phishing,MEDIUM,Fictional demo domain used for simulated account alert phishing
+http://secure-verify-account.com/login,url,phishing,HIGH,Fictional demo phishing URL used in simulated campaigns
+http://free-gift-claim.biz,url,scam,MEDIUM,Fictional demo scam URL used in simulated campaigns
+http://192.168.44.21/reset,url,suspicious,MEDIUM,Fictional demo URL pointing to a raw IP address login page
+http://bit.ly/3xAkQ9z,url,suspicious,LOW,Fictional demo shortened URL flagged for review
+malicious-payload-drop.xyz,domain,malware_hosting,CRITICAL,Fictional demo domain simulated to host malware payloads
+77.83.36.10,ip,botnet_c2,CRITICAL,Fictional demo indicator simulated as an active botnet controller

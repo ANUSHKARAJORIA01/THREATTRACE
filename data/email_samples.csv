@@ -1,0 +1,90 @@
+text,label
+"This is an official notice from the tax authority, you have an outstanding balance, pay immediately to avoid legal action.",IMPERSONATION
+Your order has shipped and tracking shows delivery within 3-5 business days.,BENIGN
+"Your reservation for two at 7pm on Saturday has been confirmed, see you then.",BENIGN
+We detected a policy violation on your account. Failure to respond within 48 hours may result in permanent suspension.,PHISHING
+"Our records show you have an unclaimed prize from last year's promotional lottery draw, contact us to claim it.",SCAM
+"Hello, this is your bank's fraud prevention team, please confirm your card number and PIN so we can secure your account.",IMPERSONATION
+The soccer game got moved to Sunday morning due to the weather forecast.,BENIGN
+"This is your delivery courier, we need you to confirm your address and payment card to release your package from customs.",IMPERSONATION
+Your recent parcel delivery attempt failed. Reschedule delivery and settle the outstanding customs fee to receive your package.,PHISHING
+"Hi, this is the school office, we need your child's information confirmed urgently, please reply with the details.",IMPERSONATION
+Looking forward to seeing everyone at the team offsite next month.,BENIGN
+We were unable to process your recent payment. Update your billing details as soon as possible to avoid service interruption.,PHISHING
+"Your subscription receipt for this month is attached for your records, nothing to do here.",BENIGN
+"We've rescheduled the demo to give the team more time to prepare, new date attached.",BENIGN
+"This exclusive investment club promises consistent weekly profits with no risk, join now before enrollment closes.",SCAM
+Your password will expire today. Reset it now through the portal below to avoid being locked out of your account.,PHISHING
+"It's your manager, I'm stuck in a client meeting, please wire the vendor payment now, I'll explain later.",IMPERSONATION
+"Nice catching up at the conference, let's grab a call sometime next month.",BENIGN
+"I've shared the shared drive folder with the updated design files, take a look when you can.",BENIGN
+Please find the minutes from today's planning meeting attached for your records.,BENIGN
+Can you send over the notes from the client call when you get a chance? No rush.,BENIGN
+"Just wanted to say the workshop yesterday was really helpful, thanks for organizing it.",BENIGN
+Your cloud storage account requires re-verification within 24 hours or access will be permanently disabled.,PHISHING
+"Thanks so much for your help yesterday, really appreciate you staying late.",BENIGN
+"The book club is meeting this Thursday evening, same place as always.",BENIGN
+Are you free for lunch on Thursday? There's a new place near the office worth trying.,BENIGN
+Your email storage quota has been exceeded. Click below to increase your limit and avoid losing incoming messages.,PHISHING
+Your online banking session has expired for security reasons. Please log back in through the link provided to continue.,PHISHING
+Reminder: team stand-up moved to 9:15 this morning in the main conference room.,BENIGN
+"Hey, it's your coworker from accounting, can you resend the wire approval, the client is waiting on the transfer.",IMPERSONATION
+A new device was used to access your account from an unfamiliar location. Confirm it was you or secure your account now.,PHISHING
+"Double your investment in just one week, guaranteed returns, only a few spots left in this exclusive program.",SCAM
+Your remote access session has been flagged for review. Verify your identity to restore normal account functionality.,PHISHING
+"For your security, we've locked your account due to suspicious login attempts. Unlock it by confirming your credentials.",PHISHING
+"The garden club meets in the community hall every second Saturday, all welcome.",BENIGN
+"Limited time only, send a deposit today and receive ten times the amount back within 48 hours guaranteed.",SCAM
+Please review and accept the updated terms of service by end of day to avoid disruption to your account.,PHISHING
+"Loved catching up over coffee last week, let's do it again soon.",BENIGN
+Unusual activity was detected on your banking profile. Please verify your identity to prevent a temporary suspension.,PHISHING
+"Here's the recipe you asked about, let me know how it turns out!",BENIGN
+"I've booked the flights for the conference, itinerary attached for your review.",BENIGN
+"The office will be closed on Monday for the public holiday, see everyone Tuesday.",BENIGN
+"We noticed a sign-in from an unrecognized device. If this wasn't you, secure your account immediately using the link below.",PHISHING
+I represent a wealthy family seeking a trustworthy partner abroad to help manage a substantial inheritance transfer.,SCAM
+I'm a retired banker looking to move a large sum overseas discreetly and would like to offer you a generous commission.,SCAM
+Your mailbox storage is almost full and new messages may be rejected. Upgrade your plan now to avoid interruption.,PHISHING
+"Hi Sam, just confirming our meeting tomorrow at 10am. Let me know if that still works for you.",BENIGN
+"Your feedback on the draft was really helpful, I've incorporated most of your suggestions.",BENIGN
+"You've won an all-expenses-paid vacation package, just pay the resort registration fee to confirm your booking.",SCAM
+"Dear valued customer, your account access has been temporarily limited. Please confirm your details to restore full access.",PHISHING
+"Great job on the presentation today, the client seemed really impressed.",BENIGN
+I'll be out of office next week but Priya will be covering for anything urgent.,BENIGN
+"You've been chosen for an exclusive giveaway, just cover the small handling fee to claim your brand new laptop.",SCAM
+"Thanks for organizing the potluck, everyone really enjoyed it.",BENIGN
+"Thanks for the quick turnaround on the edits, the document looks great now.",BENIGN
+"This new cryptocurrency token is about to explode in value, get in early and turn a small deposit into a fortune.",SCAM
+Just a friendly note that the library books are due back by the end of the week.,BENIGN
+This is an automated notice that your subscription payment failed. Please update your card details to keep your service active.,PHISHING
+"A distant relative has left you a significant estate, our legal office needs your details to begin the transfer.",SCAM
+We are pleased to inform you that your business proposal has been selected for a generous overseas grant.,SCAM
+"Hey, don't forget we have the dentist appointment scheduled for 3pm on Wednesday.",BENIGN
+Your two-factor authentication settings need to be updated immediately due to a recent security policy change.,PHISHING
+"This is IT support, we're seeing errors on your workstation and need your login password to fix it remotely.",IMPERSONATION
+"Here is the invoice for last month's consulting hours, no action needed on your end.",BENIGN
+Happy birthday! Hope you have a fantastic day with the family.,BENIGN
+"The project deadline has shifted to next Friday, please plan your sprint accordingly.",BENIGN
+Attached is the quarterly report you requested. Happy to walk through it on a call if useful.,BENIGN
+"Congrats on the promotion, well deserved after all your hard work this year!",BENIGN
+"This is customer support, there's an issue with your recent order, please provide your card details to resolve it.",IMPERSONATION
+Your document sharing link is about to expire. Sign in now to keep access to the shared files.,PHISHING
+Can we push our call to next Tuesday afternoon? Something came up on my end.,BENIGN
+"You qualify for a special government relief grant, a small processing fee is required before funds can be released.",SCAM
+"Following up on our chat last week, I've attached the revised proposal for review.",BENIGN
+"Quick heads up, the parking garage will be under maintenance this weekend.",BENIGN
+"Quarterly all-hands is scheduled for next Wednesday at 2pm, calendar invite to follow.",BENIGN
+"It's your CFO, please process an urgent wire transfer for a confidential acquisition, keep this between us for now.",IMPERSONATION
+This week's engineering newsletter covers the new deployment pipeline and on-call rotation.,BENIGN
+"Hi, this is the building's property management, please log into the tenant portal below to confirm your lease renewal.",IMPERSONATION
+"Hi, this is HR, we're updating payroll records and need your social security number confirmed by end of day.",IMPERSONATION
+"Congratulations! Your email address has been selected to receive a cash prize of $850,000 from our international sweepstakes.",SCAM
+"Hello, this is the helpdesk, we need temporary remote access to your computer to patch a critical vulnerability.",IMPERSONATION
+"The new coffee machine is finally installed in the break room, come check it out.",BENIGN
+Reminder that timesheets are due by end of day Friday this week.,BENIGN
+"Hey it's the CEO, I'm tied up in back to back meetings, can you quickly buy some gift cards and send me the codes?",IMPERSONATION
+"Work from the comfort of your home and earn thousands weekly with zero experience required, sign up today.",SCAM
+"This is your insurance provider, your policy is under review, confirm your account number to avoid cancellation.",IMPERSONATION
+This is a reminder that your domain registration is about to lapse. Renew now to avoid losing ownership.,PHISHING
+"Your ticket number matches our grand prize draw, please respond promptly with your banking details to receive payment.",SCAM
+There was a problem verifying your recent purchase. Confirm your payment information to complete the transaction.,PHISHING
